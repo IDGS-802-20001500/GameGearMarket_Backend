@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameGearMarket_Backend", "GameGearMarket_Backend\GameGearMarket_Backend.csproj", "{D3EC69B0-FF8A-49CB-A00C-C42A0A16B88C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3EC69B0-FF8A-49CB-A00C-C42A0A16B88C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3EC69B0-FF8A-49CB-A00C-C42A0A16B88C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3EC69B0-FF8A-49CB-A00C-C42A0A16B88C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3EC69B0-FF8A-49CB-A00C-C42A0A16B88C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA903F2C-D6EC-405C-B73A-32862E80D26F}
+	EndGlobalSection
+EndGlobal
